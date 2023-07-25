@@ -1,0 +1,7 @@
+D:\exercises\25-7\24-7 Assignment15\24-7 Assignment15\bin\Debug\24-7 Assignment15.exe.config
+D:\exercises\25-7\24-7 Assignment15\24-7 Assignment15\bin\Debug\24-7 Assignment15.exe
+D:\exercises\25-7\24-7 Assignment15\24-7 Assignment15\bin\Debug\24-7 Assignment15.pdb
+D:\exercises\25-7\24-7 Assignment15\24-7 Assignment15\obj\Debug\24-7 Assignment15.csproj.AssemblyReference.cache
+D:\exercises\25-7\24-7 Assignment15\24-7 Assignment15\obj\Debug\24-7 Assignment15.csproj.CoreCompileInputs.cache
+D:\exercises\25-7\24-7 Assignment15\24-7 Assignment15\obj\Debug\24-7 Assignment15.exe
+D:\exercises\25-7\24-7 Assignment15\24-7 Assignment15\obj\Debug\24-7 Assignment15.pdb
